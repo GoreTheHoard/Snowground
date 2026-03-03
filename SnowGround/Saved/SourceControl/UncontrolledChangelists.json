@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/COMP5275372/Documents/Unreal Projects/SnowGround/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/COMP5275372/Documents/Unreal Projects/SnowGround/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NL/XPOCLKDPOCYBXDME38JYNY.uasset",
+				"C:/Users/COMP5275372/Documents/Unreal Projects/SnowGround/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/8F/W0WB91DY60ODL030PQ48QS.uasset",
+				"C:/Users/COMP5275372/Documents/Unreal Projects/SnowGround/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/X2/26YLM20RPI9052CADODO48.uasset",
+				"C:/Users/COMP5275372/Documents/Unreal Projects/SnowGround/Content/Test.uasset",
+				"C:/Users/COMP5275372/Documents/Unreal Projects/SnowGround/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+			]
+		}
+	]
+}
